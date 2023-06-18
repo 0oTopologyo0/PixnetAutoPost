@@ -7,3 +7,6 @@
 # 備註
 此程式中有使用到selenium的相關模組  
 請在使用前在終端機內輸入pip install selenium  
+另外，此篇程式需要使用到痞客邦帳號，可使用自己的帳號或以下提供的帳號
+帳號：Codetestofpost@gmail.com
+密碼：codetest1234codetest
