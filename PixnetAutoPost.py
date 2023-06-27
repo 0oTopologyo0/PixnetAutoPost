@@ -108,7 +108,6 @@ def AutoPost(titlelist,contentdict,youremail,yourpassword):
         #點選發布文章之後點擊確認，等5秒確定文章發布有跑完(等久一點避免網路速度影響)
         driver.get("https://panel.pixnet.cc/#/create-article")
         time.sleep(2)
-        count += 1
         #重新連回發布文章的網址，回到迴圈開頭
     
     driver.close()
