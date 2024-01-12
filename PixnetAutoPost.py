@@ -17,8 +17,8 @@ contentdict = {'更多設定1':"內容1",
             '更多設定2':"內容2",
             '更多設定3':"內容3"}
 #載入標題list及內容dictionary
-youremail = "seasad30254@gmail.com"
-yourpassword = "seasadsteven001"
+youremail = "Codetestofpost@gmail.com"
+yourpassword = "codetest1234codetest"
 Allhashtag =['問事','線上諮詢','玄天上帝','卡陰處理','道家','靈異','收驚','鬼故事','靈異故事','故事分享','石頭老師','竹山','玄妙堂','南投','靈驗神準']
 # youremail = input('請輸入帳號:')
 # yourpassword = input('請輸入密碼:')
